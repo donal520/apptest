@@ -19,8 +19,7 @@
                         <key>needs-shine</key>
                         <true/>
                         <key>url</key>
-                        <string>
-https://e-assets.gitee.com/gitee-community-web/_next/static/media/mjc.a8f527c7.png!/quality/100</string>
+                        <string>https://privatechat.oss-cn-hongkong.aliyuncs.com/down/icon.png</string>
                     </dict>
                     <dict>
                         <key>kind</key>
@@ -28,20 +27,19 @@ https://e-assets.gitee.com/gitee-community-web/_next/static/media/mjc.a8f527c7.p
                         <key>needs-shine</key>
                         <true/>
                         <key>url</key>
-                        <string>
-https://e-assets.gitee.com/gitee-community-web/_next/static/media/mjc.a8f527c7.png!/quality/100</string>
+                        <string>https://privatechat.oss-cn-hongkong.aliyuncs.com/down/icon.png</string>
                     </dict>
                 </array>
                 <key>metadata</key>
                 <dict>
                     <key>bundle-identifier</key>
-                    <string>com.xxxx.demo</string>
+                    <string>com.uni.private</string>
                     <key>bundle-version</key>
                     <string>1.0.0</string>
                     <key>kind</key>
                     <string>software</string>
                     <key>title</key>
-                    <string>XXXX App download</string>
+                    <string>私聊</string>
                 </dict>
             </dict>
         </array>
